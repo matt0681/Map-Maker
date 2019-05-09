@@ -1,0 +1,8 @@
+Pacific,Atlantic,Indian,Arctic,Goble,Dectonic,
+Great,Hartu,Banup,Winge,King,Topnul,
+Wealdstone,Southwold,Cuxwold,Aldwych,Norwich,Waberswick,
+Winchester,Tamworth,Bredwardine,Fintry,Strathmore,Askrigg,
+Swindon,Armthorpe,Finsthwaite,Trenear,Trehaford,Lantoft,
+Scunthorpe,MalhamaTarn,Sudbury,Bristol,Felixstowe,Angus,
+Sahara,Gobi,Atacama,Khali,Ramon,Baja,
+Sherwood,Redwood,Blackwood,Suicide,Smoky,Amazon,
