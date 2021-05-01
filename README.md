@@ -4,7 +4,7 @@ It generates a map-like grid with different values pertaining to each location.
 This project is complete and no longer active.
 
 # Use
-UserInterface.java is the file with the main method in it. (Run this file)
+UserInterface.java is the file with the main method in it (Run this file).
 Unfortunately the paths to assets are absolute paths so they must be changed.
 
 # Picture
