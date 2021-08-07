@@ -10,3 +10,5 @@ Unfortunately the paths to assets are absolute paths so they must be changed.
 # Picture
 Here is an example output of the program!
 ![MapMaker Example Picture](https://user-images.githubusercontent.com/37879186/116771761-f3b83100-aa12-11eb-8d01-ed07db260e2c.PNG)
+
+-Matthew Lad, 2018
